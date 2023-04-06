@@ -1,3 +1,9 @@
+# Answers
+To see the answers start the app by running
+```
+yarn start
+```
+
 # animals
 Thank you for taking the time to do this exercise. Please time yourself answering the five questions below. If you enjoy the exercise and can do them in about 30 minutes, we would love to interview you.
 
